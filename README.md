@@ -1,6 +1,6 @@
 # Next.js and Tailwind CSS Personal Portfolio
 
-
+![quick glance](https://user-images.githubusercontent.com/118537400/236890939-fdca7e0d-f2e3-4e74-901f-45f3229b9d76.gif)
 
 
 
